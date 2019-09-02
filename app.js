@@ -4,7 +4,7 @@ const express = require('express')
 const bodyParser = require('body-parser')
 const logger = require('morgan')
 const app = express()
-const port = process.env.SERVER_PORT || 5000
+const port = process.env.PORT || 5000
 
 const noteRoute = require('./src/route/routes')
 
