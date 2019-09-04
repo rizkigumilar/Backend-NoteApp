@@ -26,7 +26,7 @@
 
 ```
 $ git clone https://github.com/rizkigumilar/Backend-NoteApp.git
-$ cd backEndPolopadGame
+$ cd Backend-NoteApp
 $ npm install
 ```
 ## Create Environment
